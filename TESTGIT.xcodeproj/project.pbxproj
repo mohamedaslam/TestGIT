@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1D501BC321A3A1FD004F3FCB /* Feature2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BC221A3A1FD004F3FCB /* Feature2ViewController.m */; };
 		1D501BC621A3A539004F3FCB /* Feature3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BC521A3A539004F3FCB /* Feature3ViewController.m */; };
+		1D501BC921A3ACEC004F3FCB /* Feature4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BC821A3ACEC004F3FCB /* Feature4ViewController.m */; };
 		1D5041B521A2A3B500C224BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D5041B421A2A3B500C224BD /* AppDelegate.m */; };
 		1D5041B821A2A3B500C224BD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D5041B721A2A3B500C224BD /* ViewController.m */; };
 		1D5041BB21A2A3B500C224BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D5041B921A2A3B500C224BD /* Main.storyboard */; };
@@ -42,6 +43,8 @@
 		1D501BC221A3A1FD004F3FCB /* Feature2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature2ViewController.m; sourceTree = "<group>"; };
 		1D501BC421A3A539004F3FCB /* Feature3ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature3ViewController.h; sourceTree = "<group>"; };
 		1D501BC521A3A539004F3FCB /* Feature3ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature3ViewController.m; sourceTree = "<group>"; };
+		1D501BC721A3ACEC004F3FCB /* Feature4ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature4ViewController.h; sourceTree = "<group>"; };
+		1D501BC821A3ACEC004F3FCB /* Feature4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature4ViewController.m; sourceTree = "<group>"; };
 		1D5041B021A2A3B500C224BD /* TESTGIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TESTGIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D5041B321A2A3B500C224BD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1D5041B421A2A3B500C224BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				1D501BC221A3A1FD004F3FCB /* Feature2ViewController.m */,
 				1D501BC421A3A539004F3FCB /* Feature3ViewController.h */,
 				1D501BC521A3A539004F3FCB /* Feature3ViewController.m */,
+				1D501BC721A3ACEC004F3FCB /* Feature4ViewController.h */,
+				1D501BC821A3ACEC004F3FCB /* Feature4ViewController.m */,
 				1D5041B921A2A3B500C224BD /* Main.storyboard */,
 				1D5041BC21A2A3BF00C224BD /* Assets.xcassets */,
 				1D5041BE21A2A3BF00C224BD /* LaunchScreen.storyboard */,
@@ -281,6 +286,7 @@
 				1D501BC321A3A1FD004F3FCB /* Feature2ViewController.m in Sources */,
 				1D5041E721A2A47000C224BD /* FeatureViewController.m in Sources */,
 				1D501BC621A3A539004F3FCB /* Feature3ViewController.m in Sources */,
+				1D501BC921A3ACEC004F3FCB /* Feature4ViewController.m in Sources */,
 				1D5041C321A2A3BF00C224BD /* main.m in Sources */,
 				1D5041B521A2A3B500C224BD /* AppDelegate.m in Sources */,
 			);
