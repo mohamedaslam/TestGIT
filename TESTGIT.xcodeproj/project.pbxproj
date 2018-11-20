@@ -13,10 +13,11 @@
 		1D501BCC21A3AF29004F3FCB /* Feature5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BCB21A3AF29004F3FCB /* Feature5ViewController.m */; };
 		1D501BCF21A3B128004F3FCB /* Feature6ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BCE21A3B128004F3FCB /* Feature6ViewController.m */; };
 		1D501BD221A3B162004F3FCB /* Feature7ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BD121A3B162004F3FCB /* Feature7ViewController.m */; };
-		1D501BD821A3B7A2004F3FCB /* Feature9ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BD721A3B7A2004F3FCB /* Feature9ViewController.m */; };
 		1D501BD521A3B756004F3FCB /* Feature8ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BD421A3B756004F3FCB /* Feature8ViewController.m */; };
+		1D501BD821A3B7A2004F3FCB /* Feature9ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BD721A3B7A2004F3FCB /* Feature9ViewController.m */; };
 		1D501BDB21A3B7DC004F3FCB /* Feature10ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BDA21A3B7DC004F3FCB /* Feature10ViewController.m */; };
 		1D501BDE21A3B82C004F3FCB /* Feature11ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BDD21A3B82C004F3FCB /* Feature11ViewController.m */; };
+		1D501BE121A3BC72004F3FCB /* Feature12ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D501BE021A3BC72004F3FCB /* Feature12ViewController.m */; };
 		1D5041B521A2A3B500C224BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D5041B421A2A3B500C224BD /* AppDelegate.m */; };
 		1D5041B821A2A3B500C224BD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D5041B721A2A3B500C224BD /* ViewController.m */; };
 		1D5041BB21A2A3B500C224BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D5041B921A2A3B500C224BD /* Main.storyboard */; };
@@ -58,14 +59,16 @@
 		1D501BCE21A3B128004F3FCB /* Feature6ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature6ViewController.m; sourceTree = "<group>"; };
 		1D501BD021A3B162004F3FCB /* Feature7ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature7ViewController.h; sourceTree = "<group>"; };
 		1D501BD121A3B162004F3FCB /* Feature7ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature7ViewController.m; sourceTree = "<group>"; };
-		1D501BD621A3B7A2004F3FCB /* Feature9ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature9ViewController.h; sourceTree = "<group>"; };
-		1D501BD721A3B7A2004F3FCB /* Feature9ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature9ViewController.m; sourceTree = "<group>"; };
 		1D501BD321A3B756004F3FCB /* Feature8ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature8ViewController.h; sourceTree = "<group>"; };
 		1D501BD421A3B756004F3FCB /* Feature8ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature8ViewController.m; sourceTree = "<group>"; };
+		1D501BD621A3B7A2004F3FCB /* Feature9ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature9ViewController.h; sourceTree = "<group>"; };
+		1D501BD721A3B7A2004F3FCB /* Feature9ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature9ViewController.m; sourceTree = "<group>"; };
 		1D501BD921A3B7DC004F3FCB /* Feature10ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature10ViewController.h; sourceTree = "<group>"; };
 		1D501BDA21A3B7DC004F3FCB /* Feature10ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature10ViewController.m; sourceTree = "<group>"; };
 		1D501BDC21A3B82C004F3FCB /* Feature11ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature11ViewController.h; sourceTree = "<group>"; };
 		1D501BDD21A3B82C004F3FCB /* Feature11ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature11ViewController.m; sourceTree = "<group>"; };
+		1D501BDF21A3BC72004F3FCB /* Feature12ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature12ViewController.h; sourceTree = "<group>"; };
+		1D501BE021A3BC72004F3FCB /* Feature12ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature12ViewController.m; sourceTree = "<group>"; };
 		1D5041B021A2A3B500C224BD /* TESTGIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TESTGIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D5041B321A2A3B500C224BD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1D5041B421A2A3B500C224BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -160,6 +163,8 @@
 				1D501BDA21A3B7DC004F3FCB /* Feature10ViewController.m */,
 				1D501BDC21A3B82C004F3FCB /* Feature11ViewController.h */,
 				1D501BDD21A3B82C004F3FCB /* Feature11ViewController.m */,
+				1D501BDF21A3BC72004F3FCB /* Feature12ViewController.h */,
+				1D501BE021A3BC72004F3FCB /* Feature12ViewController.m */,
 				1D5041B921A2A3B500C224BD /* Main.storyboard */,
 				1D5041BC21A2A3BF00C224BD /* Assets.xcassets */,
 				1D5041BE21A2A3BF00C224BD /* LaunchScreen.storyboard */,
@@ -326,6 +331,7 @@
 				1D501BD521A3B756004F3FCB /* Feature8ViewController.m in Sources */,
 				1D501BDB21A3B7DC004F3FCB /* Feature10ViewController.m in Sources */,
 				1D501BC621A3A539004F3FCB /* Feature3ViewController.m in Sources */,
+				1D501BE121A3BC72004F3FCB /* Feature12ViewController.m in Sources */,
 				1D501BC921A3ACEC004F3FCB /* Feature4ViewController.m in Sources */,
 				1D501BD221A3B162004F3FCB /* Feature7ViewController.m in Sources */,
 				1D5041C321A2A3BF00C224BD /* main.m in Sources */,
